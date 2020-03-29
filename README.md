@@ -17,7 +17,7 @@
     #attention:データや条件は目的に応じて変えましょう．
     
 - data//魚の軌跡データ
-- rawdata
+  - rawdata
   - movingaverage//30fpsで撮影した動画の5フレームの移動平均を取った結果の一部(コードはまた載せれたら載せます)
 - results
     - Fig.3.3: Relationship between the number of fish and Φ. Φ is the average of two samples. Whenε=0.3, Φincreases in phase transition between 5 and 6 individuals.については，CalculateNematic_Phi_MI.ipynbで変数を変えてそれぞれ算出したΦの値をグラフ化した．
